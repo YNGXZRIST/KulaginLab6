@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Kulagin lab6</string>
+    <string name="events">Events</string>
+    <string name="holidays">Holidays</string>
+    <string name="profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="events_title">EVENTS</string>
+    <string name="holidays_title">HOLIDAYS</string>
+    <string name="home_title">HOME</string>
+    <string name="new_event_hint_title">Title</string>
+    <string name="new_event_hint_description">Description</string>
+    <string name="settings_fragment_title">Settings Fragment</string>
+    <string name="about_app_title">About App</string>
+    <string name="settings_profile_redirect">Settings</string>
+    <string name="about_profile_redirect">About</string>
+    <string name="share_profile">Поделиться</string>
+</resources>
